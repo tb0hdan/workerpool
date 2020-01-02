@@ -1,0 +1,2 @@
+# workerpool
+Go worker pool
